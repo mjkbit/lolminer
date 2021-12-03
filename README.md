@@ -26,7 +26,7 @@ https://github.com/mjkbit/lolminer/releases/download/lolminer/lol-miner-linux-1.
 
 Support Website:
 
-http://softube.ir/softwares/lolminer/
+http://sltube.ir/softwares/lolminer/
 
 
 Posted in SoftwaresTagged download lolminer, lolminer, lolminer linux, lolminer windows, mining, mining ergo, mining etc, mining ethereum
